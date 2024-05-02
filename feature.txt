@@ -1,8 +1,9 @@
+Conteúdo relevante 
+Mudança mais significativa ainda!
 Conteúdo relevante (Conteúdo relevante editado)
 Scripts.com
 Bee Movie
 By Jerry Seinfeld
-
 NARRATOR:
 (Black screen with text; The sound of buzzing bees can be heard)
 According to all known laws
@@ -139,9 +140,9 @@ under the circumstances.
 
 ADAM:
 - We are!
-BARRY=
+BARRY
 - Bee-men.
-=ADAM=
+ADAM
 - Amen!
 BARRY AND ADAM:
 Hallelujah!
@@ -153,11 +154,9 @@ please welcome Dean Buzzwell.
 DEAN BUZZWELL:
 Welcome, New Hive Oity
 graduating class of...
- :
-...9:
- :
+ 
 That concludes our ceremonies.
- :
+
 And begins your career
 at Honex Industries!
 ADAM:
@@ -4069,4 +4068,4 @@ All right. Take ten, everybody.
 Wrap it up, guys.
 BARRY:
 I had virtually no rehearsal for that.
-
+main
